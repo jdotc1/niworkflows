@@ -1,3 +1,13 @@
+.. rubric:: About this fork
+
+This is a development fork of `nipreps/niworkflows <https://github.com/nipreps/niworkflows>`__, a collection of MRI processing tools from the NiPreps community. Its workflows and interfaces provide reusable building blocks for brain-image processing, useful when assembling research pipelines that need to connect image handling, spatial transformations, and neuroimaging tools.
+
+The fork's `upstream PR #1067 <https://github.com/nipreps/niworkflows/pull/1067>`__ proposes removing an unused FreeSurfer helper. It was open on 17 October 2026 and is tracked on the linked feature branch.
+
+See the `official documentation <https://www.nipreps.org/niworkflows/>`__ for installation, interfaces, and workflow guidance. `Compare the default branch with upstream <https://github.com/jdotc1/niworkflows/compare/nipreps:master...jdotc1:master>`__ to inspect the development base. The upstream overview and documentation link are preserved below.
+
+.. rubric:: Upstream README
+
 NeuroImaging workflows (NiWorkflows): robust processing tools for MRI data
 ==========================================================================
 
